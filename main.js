@@ -33,13 +33,4 @@ else {
     console.error('Form or output div not found in the DOM');
 }
 ;
-//  const resumeHTML =`
-//  h1> Resume </h1>
-//  <p><strong>Name:</strong> ${name} </p>
-//  <p><strong>Email:</strong> ${email} </p>
-//  <p><strong>Phone:</strong> ${phone} </p>
-//  <p><strong>Education:</strong> ${education} </p>
-//  <p><strong>Experience:</strong> ${experience} </p>
-//  <p><strong>Skills:</strong> ${skills}</p>
-//  `
-//  resumeOutput.innerHTML=resumeHTML
+
